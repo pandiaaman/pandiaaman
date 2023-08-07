@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pandiaaman
-- 👀 I’m interested in software development, web development and machine learning skills.
-- 🌱 I’m currently learning Vue, React, AI.
-- 💞️ I’m looking to collaborate on Java, ML projects.
+- 👋 Hi, I’m @pandiaaman : AMAN PANDIA
+- 👀 I’m interested in full stack software development, web development and machine learning skills.
+- 🌱 I’m currently working on JAVA, SpringBoot, Hibernate, LLD, React, JS, Tailwind.
+- 💞️ I’m looking to collaborate on Java full stack web projects.
 - 📫 How to reach me : pls mail on pandiaaman16@gmail.com
 
 <!---
